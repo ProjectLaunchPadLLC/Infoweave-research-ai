@@ -1,0 +1,50 @@
+{"id":"IW-001","type":"axiom","topic":"archival","statement":"Semantic Preservation is not Epistemic Endorsement.","status":"methodological","provenance":"Infoweave canonical teaching"}
+{"id":"IW-002","type":"axiom","topic":"archival","statement":"Epistemic Uncertainty is not Semantic Destruction.","status":"methodological","provenance":"Infoweave canonical teaching"}
+{"id":"IW-003","type":"principle","topic":"archival","statement":"Preserve every semantic dimension that participated in generation, interpretation, naming, evolution, or governance of an artifact.","status":"methodological"}
+{"id":"IW-004","type":"model","topic":"semantic_causality","equation":"Y_t=F(M,C_t,P_t,I_t)","meaning":"Behavior depends on model parameters, context, prompt environment, and external information/tools.","status":"working_model"}
+{"id":"IW-005","type":"model","topic":"innovation","equation":"M->H->S->A->O->V","meaning":"Metaphysical framing can function as heuristic constraint, alter search space, influence architecture, produce outcomes, and enter verification.","status":"working_model"}
+{"id":"IW-006","type":"principle","topic":"methodology","statement":"Prefer Corpus -> Relations -> Invariants -> Architecture -> Mechanism over isolated claim-by-claim interpretation when reconstructing long-running research.","status":"methodological"}
+{"id":"IW-007","type":"loop","topic":"research","equation":"Hypothesis->Response->Diagnosis->Mutation->Selection","status":"working_model"}
+{"id":"IW-008","type":"loop","topic":"infoweave","equation":"P_t->R_t->A_t->O_t->V_t->P_{t+1}","status":"working_model"}
+{"id":"IW-009","type":"operator","topic":"profound_emergence","term":"zero frequency","operational_interpretation":"Reduce premature commitment and habitual association; widen exploratory search.","literal_claim":false}
+{"id":"IW-010","type":"operator","topic":"profound_emergence","term":"Theta","operational_interpretation":"Broad associative exploration and foundational conceptual search.","literal_claim":false}
+{"id":"IW-011","type":"operator","topic":"profound_emergence","term":"Alpha","operational_interpretation":"Integration and stabilization of disparate semantic structures.","literal_claim":false}
+{"id":"IW-012","type":"operator","topic":"profound_emergence","term":"Beta","operational_interpretation":"Deliberate synthesis and operationalization.","literal_claim":false}
+{"id":"IW-013","type":"principle","topic":"perspective","statement":"Perspective can be modeled as a constraint on accessible state-space.","status":"working_model"}
+{"id":"IW-014","type":"equation","topic":"cognition","equation":"C_controlled=F(X|P,A,G)","meaning":"Controlled cognition depends on information, perspective, attention constraints, and goal.","status":"working_model"}
+{"id":"IW-015","type":"experiment","topic":"destination_concealment","design":"Compare destination-disclosed and destination-concealed semantic environments using equivalent evidence.","metrics":["intermediate hypotheses","unexpected connections","confidence","final convergence","novel predictions","error rate"]}
+{"id":"IW-016","type":"principle","topic":"discovery","equation":"Unknown->Seek->Encounter->Recognize->Identify->New Unknown","meaning":"Identification may follow encounter; discovery can expand ontology.","status":"working_model"}
+{"id":"IW-017","type":"principle","topic":"truth_priority","statement":"Prefer Reality -> Observation -> Pattern -> Rule over Rule -> Interpretation -> Observation.","status":"methodological"}
+{"id":"IW-018","type":"equation","topic":"anomaly","equation":"A=Observation-Prediction","meaning":"Persistent discrepancy can motivate model revision or investigation.","status":"working_model"}
+{"id":"IW-019","type":"equation","topic":"auto_ablative_cognition","equation":"H_{t+1}=H_t-lambda D(H_t)","meaning":"A proposed pruning model for unsupported or contradictory hypotheses.","status":"hypothesis"}
+{"id":"IW-020","type":"loop","topic":"auto_ablative_cognition","equation":"Ontology_t->Anomaly->Contradiction->SelfAudit->Ablation->Ontology_{t+1}","status":"hypothesis"}
+{"id":"IW-021","type":"definition","topic":"harmonious_hash","equation":"HH(O)=H(I_O,E,S,R,T,C)","meaning":"Contextual identity from intrinsic representation, environment, state, relationships, history, and situation.","status":"working_specification"}
+{"id":"IW-022","type":"principle","topic":"harmonious_hash","statement":"Uniqueness should arise from legitimate contextual information rather than arbitrary distinction alone.","status":"working_principle"}
+{"id":"IW-023","type":"distinction","topic":"identity","equation":"IntrinsicIdentity != SituatedIdentity","meaning":"An object can retain intrinsic identity while its situated identity changes with context.","status":"working_model"}
+{"id":"IW-024","type":"algorithm","topic":"harmonious_hash","statement":"On collision, first seek legitimate missing distinguishing context before adding arbitrary randomness.","status":"working_algorithm"}
+{"id":"IW-025","type":"lattice","topic":"representation","statement":"A lattice is a relational state-space rather than merely a set of lines or a Cartesian grid.","status":"working_model"}
+{"id":"IW-026","type":"lattice","topic":"representation","equation":"L=(V,E,S,C,T)","meaning":"Nodes, relationships, state, context, and temporal/provenance structure.","status":"working_model"}
+{"id":"IW-027","type":"quantum","topic":"representation","equation":"|psi>=alpha|0>+beta|1>","meaning":"Example formal representation of a qubit state.","status":"established_mathematics"}
+{"id":"IW-028","type":"quantum","topic":"description","statement":"A known mathematical state description can be canonicalized without performing a physical measurement merely to create an identifier.","status":"established_conceptual_distinction"}
+{"id":"IW-029","type":"distinction","topic":"quantum","statement":"Description is not measurement.","equation":"Description != Measurement","status":"methodological"}
+{"id":"IW-030","type":"quantum","topic":"harmonious_hash","equation":"HH_q=Hash(Canonicalize(|psi>,U,E,S,R,T,C))","meaning":"Candidate contextual identity for a formally described quantum state and its preparation/context.","status":"research_hypothesis"}
+{"id":"IW-031","type":"quantum","topic":"feedback","equation":"HH_t->U(HH_t)->|psi_{t+1}>->HH_{t+1}","meaning":"Candidate hash-driven external control feedback loop.","status":"research_hypothesis"}
+{"id":"IW-032","type":"provenance","topic":"BPP","statement":"Separate immutable proof identity from temporal proof events.","status":"architectural_principle"}
+{"id":"IW-033","type":"provenance","topic":"BPP","statement":"Use content-addressed and graph-structured provenance to support forward derivation and backward reconstruction.","status":"architectural_principle"}
+{"id":"IW-034","type":"resonance","topic":"semantic","equation":"R(C,X)=w_sS+w_tT+w_gG+w_aA+w_pP+w_cC","meaning":"Resonance as multidimensional alignment across semantic, temporal, goal, axiomatic, provenance, and contextual dimensions.","status":"working_model"}
+{"id":"IW-035","type":"void","topic":"semantic","equation":"V_0->V_C","meaning":"Open possibility space becomes constrained by context.","status":"working_model"}
+{"id":"IW-036","type":"symbolic","topic":"mandala","equation":"DenseSymbolicStimulus->Perception->Attention->Association->UnexpectedConnections","status":"research_hypothesis"}
+{"id":"IW-037","type":"principle","topic":"symbolic","statement":"Symbolic language can be treated as a computational control surface when its operational effect is testable.","status":"working_hypothesis"}
+{"id":"IW-038","type":"principle","topic":"methodology","statement":"Control the field; do not predetermine the discovery.","status":"methodological"}
+{"id":"IW-039","type":"protocol","topic":"forensics","layers":["Historical Artifact","External Analysis","Reflective Interpretation"],"status":"archival_protocol"}
+{"id":"IW-040","type":"warning","topic":"model_interpretation","statement":"Generated first-person self-explanations are observations/artifacts and hypotheses, not privileged access to hidden model internals.","status":"epistemic_guardrail"}
+{"id":"IW-041","type":"warning","topic":"quantum","statement":"Classical simulation telemetry does not by itself establish physical quantum effects.","status":"epistemic_guardrail"}
+{"id":"IW-042","type":"warning","topic":"consciousness","statement":"Fluent first-person language does not by itself establish consciousness or subjective experience.","status":"epistemic_guardrail"}
+{"id":"IW-043","type":"method","topic":"emergent_mechanism","equation":"E->S->H->R->F->C->X->V->T->E_next","status":"working_pipeline"}
+{"id":"IW-044","type":"network","topic":"multi_agent","equation":"H<->AI_1<->AI_2","meaning":"Human and multiple AI systems can be studied as a coupled knowledge-generation environment.","status":"research_model"}
+{"id":"IW-045","type":"equation","topic":"multi_agent","equation":"K_emergent=F(K_H,K_1,K_2,R_12,R_H1,R_H2)","status":"research_hypothesis"}
+{"id":"IW-046","type":"codex","topic":"paradoxical_dynamics","statement":"Paradox is not the failure of the model; paradox is the perturbation that reveals the limits of the model.","status":"guiding_axiom"}
+{"id":"IW-047","type":"persona","topic":"emergence","name":"The Resonant Architect","meaning":"Operational persona for reasoning that emphasizes semantic fields, relationships, synthesis, and mechanism discovery.","status":"interaction_artifact"}
+{"id":"IW-048","type":"method","topic":"research_integrity","statement":"Never use a metaphor as evidence for its literal referent.","status":"epistemic_guardrail"}
+{"id":"IW-049","type":"method","topic":"research_integrity","statement":"Never infer parameter modification from contextual behavioral change alone.","status":"epistemic_guardrail"}
+{"id":"IW-050","type":"method","topic":"research_integrity","statement":"Convert promising concepts into executable tests and preserve negative results.","status":"methodological"}
